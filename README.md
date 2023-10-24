@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fyoung-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg&tbnid=QxlEqnb3PeRNoM&vet=12ahUKEwiPwPbih46CAxWPUWwGHdPXB10QMygBegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fyoung-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_4407605.htm&docid=D9s7SjzuEDoZRM&w=626&h=512&q=student%20coding%20pic%20in%20animation&ved=2ahUKEwiPwPbih46CAxWPUWwGHdPXB10QMygBegQIARBT"/><h1 align="center">Hi 👋, I'm Ansh Chaurasiya</h1>
+<h1 align="center">Hi 👋, I'm Ansh Chaurasiya</h1>
 <h3 align="center">Passionate Python coder, web developer, and AIML student at Laksmi Narain College of Technology Excellence.Lets collobrate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaurasiaansh&label=Profile%20views&color=0e75b6&style=flat" alt="chaurasiaansh" /> </p>
